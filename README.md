@@ -1,3 +1,5 @@
+<img align="center" alt="coding" img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/7dca6b60-37fb-460d-b0cc-689898db2e67" />
+
 # Excel Data Analysis Assignment 📊
 
 ## Overview
